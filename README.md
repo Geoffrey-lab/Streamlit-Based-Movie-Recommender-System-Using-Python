@@ -99,6 +99,3 @@ For any questions, feel free to reach out via [email](mailto:your.email@example.
 
 Thank you for checking out the Streamlit-Based Movie Recommender System! We hope you find it useful and enjoyable. Happy coding! 😊
 
----
-
-Feel free to customize the description to better match your project and personal preferences.
